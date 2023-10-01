@@ -32,5 +32,9 @@ Screenshot                                  |                Screenshot
 ## TASK 3: DATA INSIGHTS AND PRESENTATION
 Utilized Power Bi to create an interactive dashboard for client,publish it and also did a PowerPoint presentation including all of the findings and recommendations.
 
+Screenshot                                  |                Screenshot
+:-----------------------------------------: | :-----------------------------------------:
+![](customer_distribution.jpeg)             |    ![](transactions_and_sales.jpeg)
+
 Click on link below to interact with Dashboard.<br>
 https://app.powerbi.com/groups/me/reports/1c72faf7-a1ad-46f7-9b94-22f87d6f01fb/ReportSection?experience=power-bi
